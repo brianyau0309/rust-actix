@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "27062172-00f3-49b0-9fe4-26d253555ab3",
+    "colId": "ab31cfe5-6032-4c1e-98b6-1b01ef4d1ab2",
+    "containerId": "73215c74-5056-41bf-9ee3-9ab60b9fbe17",
+    "name": "/health_check",
+    "url": "{{domain}}/health_check",
+    "method": "GET",
+    "sortNum": 20000,
+    "created": "2023-06-08T14:48:23.012Z",
+    "modified": "2023-06-08T14:50:37.185Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]

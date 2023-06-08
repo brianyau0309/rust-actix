@@ -1,0 +1,7 @@
+/target
+.env*
+configuration.yaml
+
+thunder-tests/thunderActivity.json
+
+.vscode/
