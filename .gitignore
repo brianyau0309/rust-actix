@@ -3,5 +3,7 @@
 configuration.yaml
 
 thunder-tests/thunderActivity.json
+thunder-tests/_db-backup
+thunder-tests/environments
 
 .vscode/
