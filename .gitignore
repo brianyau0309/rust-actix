@@ -1,6 +1,7 @@
 /target
 .env*
 configuration.yaml
+configuration
 
 thunder-tests/thunderActivity.json
 thunder-tests/_db-backup
